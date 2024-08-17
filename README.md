@@ -1,2 +1,2 @@
-# Pr-ctica-GITHUB
+# Practica-GITHUB
 Practica de GitHub y POO :)
